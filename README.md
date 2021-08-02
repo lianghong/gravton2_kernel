@@ -25,6 +25,8 @@
 System Benchmarks Index Score on m6g.2xlarge instance
 
 Amazon Linux 2's score is          6533.5
+
 Ubuntu Ubuntu 20.04.2.0's score is 6456.2
+
 The new kernel's score is          6841.8  (August 2, 2019)
 
