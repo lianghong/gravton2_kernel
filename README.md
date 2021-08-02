@@ -1,8 +1,8 @@
-# Gravton2 Linux kernel
+# Graviton2 Linux kernel
 
-## This is a Linux Kernel built specifically for the AWS Gravton2 processor, suitable for the environment -
+## This is a Linux Kernel built specifically for the AWS Graviton2 processor, suitable for the environment -
 - Ubuntu 20.04.2.0 LTS (Focal Fossa) Ubuntu 21.04 (Hirsute)
-- EC2 instances are T4g, M6g and C6g (currently not tested for T4g)
+- EC2 instances including T4g, M6g and C6g (currently not tested for T4g)
 - Kernel version is 5.11.22 
 - Modified based on Ubuntu Hirsute , Ubuntu patches for AWS and AL2's configuration config-4.14.238-182.422.amzn2.aarch64
 
